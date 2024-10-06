@@ -1,0 +1,25 @@
+.container {
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 24px;
+  background: linear-gradient(45deg, yellow 0%, red 50%, orange 100%);
+}
+#btn {
+  width: 100px;
+  height: 25px;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  border: none;
+  border-radius: 24px;
+  cursor: pointer;
+}
+
+#para {
+  font-weight: 700;
+}
+
+#image {
+  border-radius: 24px;
+  margin: 20px 0;
+  box-shadow: 5px 5px 20px black;
+}
